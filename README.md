@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/2468231/Advance_Leetcode/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/2468231/Advance_Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
