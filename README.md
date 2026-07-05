@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -51,9 +54,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
