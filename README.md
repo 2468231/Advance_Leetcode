@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/2468231/Advance_Leetcode/tree/master/0242-valid-anagram) |
+| [1288-remove-covered-intervals](https://github.com/2468231/Advance_Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Array
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/2468231/Advance_Leetcode/tree/master/1020-number-of-enclaves) |
+| [1288-remove-covered-intervals](https://github.com/2468231/Advance_Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Matrix
 |  |
 | ------- |
