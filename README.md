@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/2468231/Advance_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/2468231/Advance_Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/2468231/Advance_Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/2468231/Advance_Leetcode/tree/master/1020-number-of-enclaves) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/2468231/Advance_Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/2468231/Advance_Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/2468231/Advance_Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/2468231/Advance_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/2468231/Advance_Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Union-Find
 |  |
 | ------- |
