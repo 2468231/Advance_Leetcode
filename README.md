@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/2468231/Advance_Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/2468231/Advance_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/2468231/Advance_Leetcode/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/2468231/Advance_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/2468231/Advance_Leetcode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/2468231/Advance_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/2468231/Advance_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/2468231/Advance_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/2468231/Advance_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/2468231/Advance_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
