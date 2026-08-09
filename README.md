@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/2468231/Advance_Leetcode/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/2468231/Advance_Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
