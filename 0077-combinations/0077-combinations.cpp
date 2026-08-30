@@ -1,12 +1,15 @@
 class Solution {
 public:
     void fun(int i, vector<int>&ds, vector<vector<int>> &ans, int n, int k){
-        if(i == n+1){
             if(ds.size() == k){
                 ans.push_back(ds);
+                return;
             }
-            return;
-        }
+            
+            if(i > n){
+                return;
+            }
+        
 
      ds.push_back(i);
     fun(i+1, ds, ans, n, k);
