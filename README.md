@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/2468231/Advance_Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/2468231/Advance_Leetcode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/2468231/Advance_Leetcode/tree/master/0542-01-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/2468231/Advance_Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/2468231/Advance_Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/2468231/Advance_Leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2468231/Advance_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
