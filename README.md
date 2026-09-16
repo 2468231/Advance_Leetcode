@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/2468231/Advance_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/2468231/Advance_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/2468231/Advance_Leetcode/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/2468231/Advance_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/2468231/Advance_Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/2468231/Advance_Leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/2468231/Advance_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/2468231/Advance_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/2468231/Advance_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2468231/Advance_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/2468231/Advance_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/2468231/Advance_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/2468231/Advance_Leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/2468231/Advance_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/2468231/Advance_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/2468231/Advance_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/2468231/Advance_Leetcode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/2468231/Advance_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
 |  |
 | ------- |
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2468231/Advance_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/2468231/Advance_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/2468231/Advance_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
