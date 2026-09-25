@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/2468231/Advance_Leetcode/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/2468231/Advance_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/2468231/Advance_Leetcode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/2468231/Advance_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/2468231/Advance_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/2468231/Advance_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/2468231/Advance_Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/2468231/Advance_Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/2468231/Advance_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/2468231/Advance_Leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/2468231/Advance_Leetcode/tree/master/0542-01-matrix) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/2468231/Advance_Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/2468231/Advance_Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
