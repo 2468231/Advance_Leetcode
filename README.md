@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/2468231/Advance_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/2468231/Advance_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/2468231/Advance_Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/2468231/Advance_Leetcode/tree/master/0078-subsets) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/2468231/Advance_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2468231/Advance_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/2468231/Advance_Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
