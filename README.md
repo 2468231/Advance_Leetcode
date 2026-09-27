@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/2468231/Advance_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/2468231/Advance_Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/2468231/Advance_Leetcode/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2468231/Advance_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -227,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/2468231/Advance_Leetcode/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2468231/Advance_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2468231/Advance_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
