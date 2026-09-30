@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/2468231/Advance_Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/2468231/Advance_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/2468231/Advance_Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/2468231/Advance_Leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/2468231/Advance_Leetcode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/2468231/Advance_Leetcode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/2468231/Advance_Leetcode/tree/master/0542-01-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/2468231/Advance_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2468231/Advance_Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/2468231/Advance_Leetcode/tree/master/0136-single-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2468231/Advance_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2468231/Advance_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
